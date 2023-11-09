@@ -1,4 +1,4 @@
-from main import calc
+from src.lab1.calculator import calc
 import sys
 sys.path.append(r"Users/matve/OneDrive/Desktop/cs102")
 import unittest
